@@ -1,0 +1,54 @@
+main{
+    font-size: 15px;
+   text-align: center;
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+element.style th{
+    padding: 0px;
+    font-size: 15px;
+}
+
+.izdeliya{
+    text-align: center ;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #3f92d2;
+    padding-bottom: 5px;
+    padding-top: 20px;
+
+}
+.glav{
+    margin: 20px;
+}
+.glav h5{
+    margin: 20px;
+}
+
+
+.product-1 {
+    text-align: center ;
+    box-sizing: none !important; 
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: content-box !important; 
+
+}
+.product-1 img{
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+}
+.product-1 h5{
+    margin-top: 0;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.product-1 a{
+    text-decoration: none !important;
+}

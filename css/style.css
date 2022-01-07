@@ -1,0 +1,222 @@
+body {
+    margin: 0;
+    width: 100%;
+    background: url('../img/fon.jpg') center / cover no-repeat;
+}
+
+.main {
+    width: 75%;
+    margin: 20px auto;
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo img {
+    width: 90px;
+}
+
+.logo {
+    margin-right: 20px;
+}
+
+.brand-name-a {
+    font-size: 25px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.header-container {
+    height: 100%;
+}
+
+.brand-name-des {
+    text-decoration: none;
+    color: #555;
+    font-weight: bold;
+}
+
+.left-side {
+    padding: 15px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.right-side {
+    float: right;
+    padding: 15px;
+    text-align: right;
+    font-size: 14px;
+}
+
+.right-side a {
+    text-decoration: underline;
+    color: #000;
+}
+
+.navigation {
+    margin-top: 20px;
+}
+
+.nav-pills {
+    width: 100%;
+    background-color: #000;
+    border-bottom: 3px solid #007bff;
+}
+
+.nav-link {
+    padding: 7px 19px !important;
+    background-color: #000;
+    color: white;
+    border-radius: 0 !important;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.slider {
+    padding: 0px 20px;
+}
+
+.carousel-indicators li {
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50%;
+}
+
+.carousel-item {
+    position: relative;
+}
+
+.slider-des {
+    padding: 1.25rem !important;
+    background-color: rgba(42, 42, 42, .9);
+    width: 300px;
+    height: 75px;
+    border-bottom: 3px solid #007bff;
+    position: absolute !important;
+    top: 0px;
+    left: 670px !important;
+}
+
+.slider-des p {
+    font-size: 1.375rem;
+    text-align: left;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.container {
+    padding: 0px 20px !important;
+}
+
+.about h1 {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #3f92d2;
+    padding-bottom: 5px;
+}
+
+.about a {
+    font-weight: bold;
+    float: right;
+}
+
+.about p {
+    font-size: 15px;
+}
+
+.product h1 {
+    width: 100%;
+    border-bottom: 2px solid #3f92d2;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.product h1 a {
+    color: #000 !important;
+}
+
+.product div a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+}
+
+.product-name {
+    color: #000 !important;
+}
+
+.row {
+    padding: 15px;
+    font-size: 15px;
+}
+
+.foot {
+    color: #fff;
+    background-color: #2a2a2a;
+}
+
+.footer-inner h1 {
+    font-size: 18px;
+    border-bottom: 2px solid #3f92d2;
+    padding-bottom: 5px;
+}
+
+.footer-inner p {
+    font-size: 14px;
+    margin-bottom: 0;
+    text-decoration: none;
+    color: #fff !important;
+}
+
+.foot a {
+    color: #fff;
+}
+
+.connect {
+    text-decoration: underline !important;
+}
+
+.copyright {
+    padding: 10px 30px;
+    border-top: 3px solid #999;
+}
+
+.copyright p {
+    color: #999;
+    margin: 0;
+    font-size: 12px;
+}
+
+.nav-link:hover {
+    background-color: #007bff !important;
+    color: #fff !important;
+    transition: all 0.8s ease !important;
+}
+
+.product-name:hover {
+    text-decoration: underline;
+    color: #007bff !important;
+}
+
+.brand-name a:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+.brand-name-des:hover {
+    color: #555 !important;
+}
+
+
+
+@media(min-width:481px)and(max-width:768px){
+    body {
+        margin: 0;
+        width: 100%;
+        background: url('../img/fon.jpg') center / cover no-repeat;
+    }
+}

@@ -1,0 +1,48 @@
+.tello {
+    font-size: 15px;
+    margin: 20px;
+}
+.tello h4{
+
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #3f92d2;
+    padding-bottom: 5px;
+}
+.tello p {
+    text-decoration: none;
+    margin: 0px, 0px, 0px;
+}
+.left-side{
+    float: left;
+}
+.h5-a{
+    font-size: 17px;
+    font-weight: 600;
+}
+.h5-ab{
+    font-size: 17px;
+    font-weight: 500;
+}
+.kamazs img{
+    width: 25%;
+    height: 15%;
+    padding-bottom: 40px;
+}
+.stroitel{
+    padding-top: 5px;
+}
+.pravila li{
+    padding-top: 10px;
+}
+.h5-bc{
+    padding-top: 22px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.kamazs{
+    text-align: center;
+}
+.abc{
+    font-size: 17px;
+}

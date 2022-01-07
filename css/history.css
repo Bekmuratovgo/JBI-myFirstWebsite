@@ -1,0 +1,38 @@
+
+
+.zavod {
+    text-align: left !important;
+}
+
+body {
+    background: url('../img/fon.jpg') center / cover no-repeat;
+}
+.zavod h5{
+    font-size: 20px;
+    font-weight: 800;
+    border-bottom: 2px solid #3f92d2;
+    padding-bottom: 5px;
+}
+.rastoyanie li{
+   margin-top: 10px;
+}
+
+
+@media screen and (max-width: 1300px){
+    #jbi-img{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1300px){
+    .photo2 img{
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 1300px){
+    .imgs2 img{
+        width: 100%;
+    }
+}
